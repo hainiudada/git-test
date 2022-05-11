@@ -7,6 +7,7 @@ public class Tt01git {
         System.out.println("你好啊!!!!!小git第三版");
         System.out.println("你好啊!!!!!小git第444版");
         System.out.println("你好啊!!!!!小git 冲突合并 222222222222222");
+        System.out.println("你好啊!!!!!小git    代码冲突   11111111");
 
     }
 }
