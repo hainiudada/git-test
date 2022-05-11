@@ -6,6 +6,7 @@ public class Tt01git {
         System.out.println("你好啊!!!!!小git第二版");
         System.out.println("你好啊!!!!!小git第三版");
         System.out.println("你好啊!!!!!小git第444版");
+        System.out.println("你好啊!!!!!小git    代码冲突   11111111");
 
     }
 }
